@@ -337,4 +337,4 @@ if "Prediccion" in selected_page:
     st.write("""
     ## Predicción de un Crédito
     Capture los datos""")
-
+ 
